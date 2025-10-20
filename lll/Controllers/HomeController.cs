@@ -7,6 +7,8 @@ namespace lll.Controllers
         public IActionResult Index()
         {
             return View();
+            return View();
+
         }
     }
 }
